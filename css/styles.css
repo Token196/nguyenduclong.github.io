@@ -13,6 +13,9 @@ html{
     background-color:#E6E6E6 ;
     text-rendering: optimizeLegibility;
 }
+body{
+    background-color: white;
+}
 .logo{
     width: 70px;
     margin-left: 30px;
@@ -97,8 +100,13 @@ h2{
     font-weight: 540;
     background-color:#585858;
     padding: 16px 25px;
-    margin-left: 40%;
+    margin-left: 37%;
     text-align: center;
+}
+.btn1:hover,
+.btn1:active{
+    background-color:darksalmon;
+    color: white;
 }
 .btn:hover,
 .btn:active{
@@ -118,4 +126,30 @@ h3{
 .small-icon{
 color:#585858;
 font-size: 200%;
+}
+.test-section{
+    height: 230px;
+    width: 1275px;
+    background-color: #f0f0ec;
+}
+.footer{
+    margin-top: 50px;
+    font-size: 15px;
+    list-style-type: none;
+    line-height: 140%;
+    padding-left: 50px;
+}
+.footer-class li{
+list-style-type: none;
+   margin-left: 170px;
+    
+}
+.button{
+    height: 120px;
+    padding: 20px;
+    padding-top: 50px;
+}
+.elementor-1{
+    width: 1120px;
+    padding-bottom: 10pxpx;
 }
