@@ -2,7 +2,7 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-    width: 1275px;
+    max-width: 1275px;
     margin: 0 auto;
 }
 
@@ -15,6 +15,8 @@ html{
 }
 body{
     background-color: white;
+    margin-bottom: 20px;
+
 }
 .logo{
     width: 70px;
@@ -22,6 +24,10 @@ body{
     margin-top: 5px;
     float: left ;
 
+}
+.anh1{
+    width: 1260px;
+    margin-left: 5px;;
 }
 .menu{
     list-style-type: none;
@@ -45,6 +51,7 @@ body{
 .menu li a:hover{
     transition: border-bottom 2s;
     color:rgb(5, 172, 228);
+ 
 }
 .clearfix:after{
     content: " ";
@@ -100,7 +107,7 @@ h2{
     font-weight: 540;
     background-color:#585858;
     padding: 16px 25px;
-    margin-left: 37%;
+    margin-left: 39%;
     text-align: center;
 }
 .btn1:hover,
@@ -132,7 +139,7 @@ font-size: 200%;
     width: 1275px;
     background-color: #f0f0ec;
 }
-.footer{
+.footer-3{
     margin-top: 50px;
     font-size: 15px;
     list-style-type: none;
@@ -152,4 +159,11 @@ list-style-type: none;
 .elementor-1{
     width: 1120px;
     padding-bottom: 10pxpx;
+}
+footer{
+    background-color:black ;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 12px;
 }

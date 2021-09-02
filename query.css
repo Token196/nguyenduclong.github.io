@@ -1,0 +1,73 @@
+/*      Big tablet to 1200px   */
+@media only screen and (max-width:1200px){
+}
+/*      Big tablet to 1200px   */
+@media only screen and (max-width:1023px){
+}
+/*      Big tablet to 1200px   */
+@media only screen and (max-width:767px){
+}
+/*      Big tablet to 480px   */
+@media only screen and (max-width:480px){
+    html{
+        font-size: 12px;
+    }
+    .logo{
+        margin-left: 20px;
+        width: 50px ;
+    }
+    .menu li{
+        font-size: 12px;
+        font-weight: 300;
+        line-height: 40px;
+        padding: 10px;
+    }
+    .anh1{
+        width:390px;
+    }
+    .row{
+        margin-left: 10px;
+    }
+    .small-icon{
+        margin-top: 13px;
+    }
+    h2{
+        display: block;
+        padding: 10px;
+        margin-top: 20px;
+        text-align: center;
+    }
+    .h2-1{
+        text-align: center;
+        margin-right: 100px;
+        margin-bottom: 20px;
+    }
+    .small-picture{
+        margin-left: 38px;
+        padding-top: 40px;
+
+    }
+    .btn{
+       margin-left: 100px;
+    }
+    .btn1{
+        margin-left:15%;
+        font-weight: 600;
+        padding:15px 45px;
+    }
+    .test-section{
+        height:500px ;
+    }
+    .footer-3{
+        font-size: 11px;
+        line-height: 25px;
+    }
+    .footer-class li{
+        margin-left: 0px;
+    }
+    footer{
+        padding: 10px;
+        font-size: 11px;
+    }
+}
+    
