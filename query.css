@@ -23,7 +23,7 @@
     }
 
     header {
-        width: 430px;
+        width: 450px;
         margin:0 auto
     }
 
@@ -54,12 +54,12 @@
     }
 
     .header-picture {
-        width: 400px;
+        width: 440px;
         margin: 0px;
     }
 
     .anh1 {
-        width: 420px;
+        width: 460px;
     }
 
     .row {
@@ -85,9 +85,10 @@
         text-align: center;
         width: 200px;
     }
+    
 
     .picture-title {
-        width: 370px;
+        width: 420px;
         margin-left: 1px;
         text-align: center;
     }
@@ -98,21 +99,23 @@
 
     .small-picture {
         
-        margin-left: 40px;
+        margin-left: 17%;
         padding-top: 40px;
 
     }
-
+    .lol{
+        margin-left: 1%;
+    }
     .btn {
         margin-left: 110px;
-        margin-left: 32%;
+        margin-left: 33%;
     }
 
     .btn1 {
         width: 390px;
         font-weight: 600;
-        padding: 15px 50px;
-        margin-left: 16%;
+        padding: 17px 60px;
+        margin-left: 15%;
     }
 
     .elementor {
