@@ -19,12 +19,12 @@
     }
 
     body {
-        width: 375px;
-        margin: 5px;
+        width: 500px;
     }
 
     header {
-        width: 370px;
+        width: 430px;
+        margin:0 auto
     }
 
     .row {
@@ -32,9 +32,9 @@
     }
 
     .logo {
-        margin-left: 20px;
+        margin-left: 10px;
         width: 50px;
-        margin-right: 1200px;
+        margin-right: 400px;
     }
 
     .menu {
@@ -49,23 +49,23 @@
         padding-top: 6px;
         padding-bottom: 0px;
         display: block;
-        width: 375px;
+        width: 400px;
         margin: 0px;
     }
 
     .header-picture {
-        width: 375px;
+        width: 400px;
         margin: 0px;
     }
 
     .anh1 {
-        width: 360px;
+        width: 420px;
     }
 
     .row {
         margin-left: 10px;
         margin-bottom: 10px;
-        width: 375px;
+        width: 400px;
     }
     
     .small-icon {
@@ -77,55 +77,56 @@
         padding: 10px;
         margin-top: 20px;
         text-align: center;
-        width: 375px;
+        width: 400px;
         margin: 0px;
     }
 
     .h2-1 {
         text-align: center;
-        width: 180px;
+        width: 200px;
     }
 
     .picture-title {
-        width: 350px;
+        width: 370px;
         margin-left: 1px;
         text-align: center;
     }
 
     .about-picture {
-        width: 350px;
+        width: 400px;
     }
 
     .small-picture {
-        margin-left: 20px;
-        margin-right: 20px;
+        
+        margin-left: 40px;
         padding-top: 40px;
 
     }
 
     .btn {
         margin-left: 110px;
+        margin-left: 32%;
     }
 
     .btn1 {
-        width: 370px;
+        width: 390px;
         font-weight: 600;
-        padding: 15px 45px;
-        margin-left: 44px;
+        padding: 15px 50px;
+        margin-left: 16%;
     }
 
     .elementor {
-        width: 370px;
+        width: 390px;
     }
 
     .elementor-1 {
-        width: 370px;
+        width: 390px;
         margin-left: 45px;
     }
 
     .test-section {
         height: 500px;
-        width: 370px;
+        width: 500px;
     }
 
     .footer-3 {
@@ -140,11 +141,11 @@
     footer {
         padding: 10px;
         font-size: 11px;
-        width: 370px;
+        width: 500px;
     }
 
     footer p {
-        width: 350px;
+        width: 500px;
         text-align: center;
     }
 }
