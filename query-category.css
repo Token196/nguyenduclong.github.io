@@ -1,0 +1,128 @@
+/*      Big tablet to 1200px   */
+@media only screen and (max-width:1200px) {
+}
+/*      Big tablet to 480px   */
+@media only screen and (max-width:420px) {
+    html {
+        font-size: 12px;
+        margin: 0 auto;
+    }
+
+    body {
+        width: 375px;
+    }
+
+    header {
+        width: 375px;
+        margin:0 auto
+    }
+/*----------    BODY    ---------------*/
+#main-id{
+    width: 370px;
+    margin: 0 auto;
+}
+.contairner-caterogy{
+    width: 370px;
+    padding: 0px;
+}
+.contairner-cater-left{
+    display: none;
+}
+.contairner-cater-right{
+    max-width: 370px;
+}
+
+.row {
+     width: 366px;
+     font-size: 12px;
+    margin-left: -30px;
+}
+
+.logo {
+    margin-left: 5px;
+    width: 70px;
+    margin-right: 350px;
+}
+.mobile-nav-icon{
+    display: block;
+    font-size: 250%;
+    width: 150px;
+    position: absolute;
+    left: 50%;
+    top:40px;
+}
+.menu {
+     margin-left: 5px;
+    width: 370px;
+    display: none;
+    }
+
+.menu li {
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 30px;
+    padding-left: 4px;
+    padding-top: 6px;
+    padding-bottom: 0px;
+    display: block;
+    width: 370px;
+    margin: 0px;
+    }
+    .picture-title {
+        width: 350px;
+        margin-left: -1px;
+        text-align: center;
+    }
+    .about-picture {
+        width: 370px;
+    }
+
+    .small-picture {
+        
+        margin-left: 5%;
+        padding-top: 40px;
+
+    }
+    .lol{
+        margin-left: 1%;
+    }
+    .btn2{
+        margin-left: 32%;
+    }
+    .catelogy-right-bottom-item a{
+        text-decoration: none;
+        position: relative;
+        right: 800px;
+        display: none;
+    }
+    .Sukien{
+        width: 370px;
+       display: none;
+    }
+    
+    /*---------    FOOTER    -----------*/
+    .test-section {
+        height: 375px;
+        width: 375px;
+    }
+
+    .footer-3 {
+        font-size: 11px;
+        line-height: 25px;
+    }
+
+    .footer-class li {
+        margin-left: 0px;
+    }
+
+    footer {
+        padding: 10px;
+        font-size: 11px;
+        width: 375px;
+    }
+
+    footer p {
+        width: 375px;
+        text-align: center;
+    }
+}
