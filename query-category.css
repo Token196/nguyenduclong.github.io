@@ -10,6 +10,7 @@
 
     body {
         width: 375px;
+
     }
 
     header {
@@ -70,7 +71,6 @@
     }
     .picture-title {
         width: 350px;
-        margin-left: -1px;
         text-align: center;
     }
     .about-picture {
