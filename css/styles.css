@@ -406,6 +406,7 @@ footer{
 }
 .product-content-bottom-text h3{
     padding-left: 0px;
+    margin-bottom: 22px;
 }
 .product-content-bottom-text ul{
     font-size: 14px;
@@ -423,3 +424,7 @@ footer{
     line-height: 25px;
     padding-left: 25px;
 }
+
+
+
+/***----------   BUY-NOW    ----------***/
