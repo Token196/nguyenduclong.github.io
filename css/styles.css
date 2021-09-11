@@ -262,6 +262,9 @@ footer{
 .small-picture{
     padding-left: 25px;
 }
+.small-picture-overlay:hover{
+    opacity: 1;
+}
 .btn2{
     text-decoration: none;
     color:#595557;
@@ -351,7 +354,7 @@ footer{
     text-transform: uppercase;
     font-weight: 600;
     color:white;
-    background-color:#595557;
+    background-color:#595557;   
 }
 .add-tool:hover,
 .add-tool:active{
@@ -427,4 +430,18 @@ footer{
 
 
 
-/***----------   BUY-NOW    ----------***/
+/***----------   BUY-NOW -CART   ----------***/
+.cart-container-top table{
+    width: 700px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    background-color:aliceblue;
+    text-align: center;
+}
+.cart-container-top table thead tr {
+    display:block;
+
+}
+.cart-container-top table tr th {
+    padding: 10px 30px;
+}
